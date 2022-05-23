@@ -1,4 +1,4 @@
-// 1 - numbers
+// 1 - Numbers
 let x: number = 22
 
 console.log(x)
@@ -11,7 +11,7 @@ console.log(typeof y)
 
 console.log(y.toPrecision(3))
 
-// 2 - string
+// 2 - String
 const firstName: string = "Luis"
 
 console.log(firstName.toUpperCase())
@@ -24,7 +24,7 @@ fullName = firstName + ' ' + lastName
 
 console.log(fullName);
 
-// 3 - boolean
+// 3 - Boolean
 let a: boolean = false
 
 console.log(a)
@@ -34,7 +34,7 @@ a = true
 
 console.log(a);
 
-// 4 - inference e annotation
+// 4 - Inference e Annotation
 const ann: string = "teste"
 
 let inf = "teste"
